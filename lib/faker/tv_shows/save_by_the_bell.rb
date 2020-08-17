@@ -1,6 +1,6 @@
 module Faker
     class TvShows
-        class SaveByTheBill < Base
+        class SaveByTheBell < Base
             flexible :save_by_the_bell
 
             class << self
@@ -20,4 +20,5 @@ module Faker
         end
     end
 end
+
 
